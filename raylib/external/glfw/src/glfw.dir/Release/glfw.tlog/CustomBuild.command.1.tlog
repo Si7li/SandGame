@@ -1,0 +1,10 @@
+^C:\RAYLIB\RAYLIB\SRC\EXTERNAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+D:\cmake-3.28.6-windows-x86_64\cmake-3.28.6-windows-x86_64\bin\cmake.exe -SC:/raylib/raylib -BC:/raylib/raylib/build --check-stamp-file C:/raylib/raylib/build/raylib/external/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

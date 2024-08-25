@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\SandGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|C:\\Users\\user\\Documents\\SandGame\\SandGame\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|solutionrelative:SandGame\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|C:\\Users\\user\\Documents\\SandGame\\SandGame\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|solutionrelative:SandGame\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|C:\\Users\\user\\Documents\\SandGame\\SandGame\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|solutionrelative:SandGame\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|C:\\Users\\user\\Documents\\SandGame\\SandGame\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|solutionrelative:SandGame\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|C:\\Users\\user\\Documents\\SandGame\\SandGame\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|SandGame\\SandGame.vcxproj|solutionrelative:SandGame\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simulation.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\simulation.cpp",
+              "RelativeDocumentMoniker": "SandGame\\simulation.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\simulation.cpp",
+              "RelativeToolTip": "SandGame\\simulation.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T10:24:33.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "grid.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\grid.cpp",
+              "RelativeDocumentMoniker": "SandGame\\grid.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\grid.cpp",
+              "RelativeToolTip": "SandGame\\grid.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T10:29:22.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "simulation.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\simulation.hpp",
+              "RelativeDocumentMoniker": "SandGame\\simulation.hpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\simulation.hpp",
+              "RelativeToolTip": "SandGame\\simulation.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T10:57:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "grid.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\grid.hpp",
+              "RelativeDocumentMoniker": "SandGame\\grid.hpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\grid.hpp",
+              "RelativeToolTip": "SandGame\\grid.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T10:24:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOfLife.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\GameOfLife.cpp",
+              "RelativeDocumentMoniker": "SandGame\\GameOfLife.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\SandGame\\SandGame\\GameOfLife.cpp",
+              "RelativeToolTip": "SandGame\\GameOfLife.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T10:13:03.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\CellularAutomata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|solutionrelative:CellularAutomata\\simulation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|solutionrelative:CellularAutomata\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|solutionrelative:CellularAutomata\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D3CE6EA-A4D8-4819-BA41-5C325B64EE2B}|CellularAutomata\\CellularAutomata.vcxproj|solutionrelative:CellularAutomata\\GameOfLife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "simulation.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\simulation.cpp",
+              "RelativeDocumentMoniker": "CellularAutomata\\simulation.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\simulation.cpp",
+              "RelativeToolTip": "CellularAutomata\\simulation.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T06:49:17.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simulation.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\simulation.hpp",
+              "RelativeDocumentMoniker": "CellularAutomata\\simulation.hpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\simulation.hpp",
+              "RelativeToolTip": "CellularAutomata\\simulation.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T06:42:05.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "grid.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\grid.hpp",
+              "RelativeDocumentMoniker": "CellularAutomata\\grid.hpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\grid.hpp",
+              "RelativeToolTip": "CellularAutomata\\grid.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-14T06:41:00.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameOfLife.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\GameOfLife.cpp",
+              "RelativeDocumentMoniker": "CellularAutomata\\GameOfLife.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\CellularAutomata\\CellularAutomata\\GameOfLife.cpp",
+              "RelativeToolTip": "CellularAutomata\\GameOfLife.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T15:43:43.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

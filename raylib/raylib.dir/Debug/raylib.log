@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/raylib/raylib/src/CMakeLists.txt
+  rcore.c
+C:\raylib\raylib\src\external/rprand.h(206,27): warning C4018: '<': signed/unsigned mismatch
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  raudio.c
+  Generating Code...
+  raylib.vcxproj -> C:\raylib\raylib\build\raylib\Debug\raylib.lib

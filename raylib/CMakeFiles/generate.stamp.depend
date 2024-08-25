@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/raylib/raylib/cmake/CompileDefinitions.cmake
+C:/raylib/raylib/cmake/GlfwImport.cmake
+C:/raylib/raylib/cmake/InstallConfigurations.cmake
+C:/raylib/raylib/cmake/JoinPaths.cmake
+C:/raylib/raylib/cmake/LibraryConfigurations.cmake
+C:/raylib/raylib/cmake/LibraryPathToLinkerFlags.cmake
+C:/raylib/raylib/cmake/PackConfigurations.cmake
+C:/raylib/raylib/cmake/PopulateConfigVariablesLocally.cmake
+C:/raylib/raylib/cmake/raylib-config-version.cmake
+C:/raylib/raylib/raylib.pc.in
+C:/raylib/raylib/src/CMakeLists.txt
+D:/cmake-3.28.6-windows-x86_64/cmake-3.28.6-windows-x86_64/share/cmake-3.28/Modules/CPack.cmake
+D:/cmake-3.28.6-windows-x86_64/cmake-3.28.6-windows-x86_64/share/cmake-3.28/Modules/CPackComponent.cmake
+D:/cmake-3.28.6-windows-x86_64/cmake-3.28.6-windows-x86_64/share/cmake-3.28/Modules/FindOpenGL.cmake
+D:/cmake-3.28.6-windows-x86_64/cmake-3.28.6-windows-x86_64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+D:/cmake-3.28.6-windows-x86_64/cmake-3.28.6-windows-x86_64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+D:/cmake-3.28.6-windows-x86_64/cmake-3.28.6-windows-x86_64/share/cmake-3.28/Modules/GNUInstallDirs.cmake
+D:/cmake-3.28.6-windows-x86_64/cmake-3.28.6-windows-x86_64/share/cmake-3.28/Templates/CPackConfig.cmake.in
